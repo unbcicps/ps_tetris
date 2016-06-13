@@ -1,4 +1,4 @@
-/* BIBLIOTECAS -------------------------------------------------------------------- */
+/*    BIBLIOTECAS -------------------------------------------------------------------- */
 #include <time.h> 		/* biblioteca que permite manipulação de tempo */
 #include <stdio.h>		/* biblioteca padrão de entrada e saída */
 #include <stdlib.h> 	/* biblioteca padrão de funções adicionais */
